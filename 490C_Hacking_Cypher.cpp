@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	int a,	// число делимое
-		b;	// число остаток
+	    b;	// число остаток
 
 	// ввод данных
 	scanf("%d%d", &a, &b);
