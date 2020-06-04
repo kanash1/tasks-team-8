@@ -8,6 +8,6 @@
 Количество решенных задач: 16
 Все решения распределены по папкам с соответсвующей им тематикой.
 ---
-## Полезные ссылки:
+Полезные ссылки:
 * [**Отчет о командной работе**](https://docs.google.com/spreadsheets/d/1QViYR63b8TAb08iESDX-HTQOvMfp76b_fPiNMiNuSCo/edit#gid=0)
 * [**Разбор задач**](https://docs.google.com/document/d/1jmnOUnfxw9WETcigOcWhYeEH7lphVp6RJTkfWInWqvA/edit#heading=h.jh4xqlumnfkn)
